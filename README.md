@@ -41,5 +41,22 @@ que maximiza el valor de la carga.
 
 # Fuentes:
 
-A. Salguero, F. Palomo, I. Medina<br>
+A. Salguero, F. Palomo, I. Medina.<br>
 Universidad de Cádiz.
+
+Aho, Alfred; Hopcroft, John & Ullman, Jeffrey.<br>
+The Design and Analysis of Computer Algorithms.<br>
+Addison-Wesley. 1974.
+
+Brassard, Gilles & Bratley, Paul.<br>
+Fundamentos de Algoritmia.<br>
+Prentice-Hall. 1997.<br>
+
+Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald L. &
+Stein, Cliford.<br>
+Introduction to Algorithms.<br>
+MIT Press. 2001. 2a ed.<br>
+
+Horowitz, Ellis & Sahni, Sartaj.<br>
+Fundamentals of Computer Algorithms.<br>
+Pitman. 1978.<br>
