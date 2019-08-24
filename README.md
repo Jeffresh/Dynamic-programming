@@ -19,12 +19,25 @@ la tabla. Al cumplar el subejemplar, aquéllos implicados
 ya deben de estar almacenados.
 
 
-# The Knapsackproblem (El problema de la mochila.)
+# The Knapsack problem (El problema de la mochila.)
 Dados  *n* objetos, cada uno con un valor *vi* y 
 *pi* y una mochila con una capacidad *c*, se desea hallar la composición de la mochila
 que maximiza el valor de la carga.
- 
 
+# The Coin Change problem (El problema del cambio de moneda.)
+ Disponemos de *n* tipos de monedas de valor *vi* y deseamos devolver
+ un cambio de *c* unidades monetarias empleando el mínimo número posible
+ de monedas de cada tipo.
+ 
+ ### Características:
+ - Como simplificación supondremos  que disponemos una cantidad ilimitada
+ de monedas de cada tipo.
+ 
+ - La resolución de este problema puede contemplarse como un problema de decisión
+ donde hay que decidir para cada tipo de moneda cúantas incluimos para
+ devolver el cambio.
+ 
+ - El principio de optimalidad se cumple para este problema.
 
 # Fuentes:
 
